@@ -58,7 +58,7 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
 
-            SizedBox(height: 16.0),
+            SizedBox(height: 26.0),
             Center(
               child: CircleAvatar(
                 radius: 50.0,
@@ -83,11 +83,14 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
 
+
+            SizedBox(height: 36.0),
+
             Center(
               child: CircleAvatar(
                 radius: 50.0,
                 backgroundImage:
-                NetworkImage('https://cdn-icons-png.flaticon.com/512/1621/1621635.png'),
+                NetworkImage('https://cdn1.iconfinder.com/data/icons/farming-and-gardening-8/60/egg__farming__chicken__hen__food-512.png'),
               ),
             ),
 
