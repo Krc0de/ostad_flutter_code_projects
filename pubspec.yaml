@@ -59,9 +59,9 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+ #assets:
+
+  #-https://www.bing.com/images/search?view=detailV2&ccid=DTeniVGf&id=22F0EBBC9283493428D23D8919045A100B5C72CE&thid=OIP.DTeniVGfYhX8sKlBshdj8QHaHa&mediaurl=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Ffood-and-drinks-icons%2F512%2FIce_Cream-1024.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.0d37a789519f6215fcb0a941b21763f1%3Frik%3DznJcCxBaBBmJPQ%26pid%3DImgRaw%26r%3D0&exph=1024&expw=1024&q=icecream+icon&simid=608031653363916982&ck=11997E47FFB5594634F6108FBB22B7F2&selectedIndex=0&itb=1&idpp=overlayview&mode=overlay&shtc=0&shth=OIP.DTeniVGfYhX8sKlBshdj8QHaHa&shsc=idp&form=EX0050&shid=af875d4b-21d4-4cd8-a0c7-25b01bf33b00&shtp=GetUrl&shtk=RWF0aW5nLCBmb29kLCBpY2UgY3JlYW0gaWNvbiAtIERvd25sb2FkIG9uIEljb25maW5kZXI%3D&shdk=Rm91bmQgb24gQmluZyBmcm9tIHd3dy5pY29uZmluZGVyLmNvbQ%3D%3D&shhk=rsLfAiyAnWlEjDJTdSTnZFLn81fd27gpB%2B%2FUabedwTQ%3D
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
